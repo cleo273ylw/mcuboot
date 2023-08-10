@@ -36,7 +36,9 @@ Currently, MCUboot works with the following operating systems and SoCs:
 
 RIOT is supported only as a boot target. We will accept any new
 port contributed by the community once it is good enough.
-
+[imgtool]: https://github.com/mcu-tools/mcuboot/actions?query=workflow:imgtool
+[travis]: https://travis-ci.org/mcu-tools/mcuboot
+[license]: https://github.com/mcu-tools/mcuboot/blob/main/LICENSE
 ## MCUboot How-tos
 
 See the following pages for instructions on using MCUboot with different
